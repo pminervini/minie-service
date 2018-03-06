@@ -1,5 +1,7 @@
 # MinIE Service
 
+Code for exposing [MinIE - Open Information Extraction system](https://github.com/gkiril/minie) as a service.
+
 Start with:
 
 ```bash
